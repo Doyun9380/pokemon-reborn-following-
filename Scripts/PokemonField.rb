@@ -2892,9 +2892,7 @@ module PokemonFollowing
   SPRITE_PATH = "Graphics/Characters/"
 
   def self.getFollowSprite(pokemon)
-    return nil if !pokemon
-    species = pokemon.species
-    filename = sprintf("Follow%03d", species)
+    filename = "Zaciazentus"
     if pbResolveBitmap(SPRITE_PATH + filename)
       return filename
     end
@@ -2905,8 +2903,8 @@ module PokemonFollowing
     return if !FOLLOWING_ENABLED
     return if !$Trainer || $Trainer.party.length == 0
     stopFollowing
-    pokemon = $Trainer.party[0]
-    return if !pokemon || pokemon.isEgg?
+    pokemon = $Trainer.party.find { |p| p.species == 1331 }
+    return if !pokemon
     sprite = getFollowSprite(pokemon)
     return if !sprite
     pbCreateFollowingPokemon(sprite)
