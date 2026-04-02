@@ -3,6 +3,10 @@
 # 대표 포켓몬이 플레이어 뒤를 따라다니는 기능
 ################################################################################
 
+class PokemonTemp
+  attr_accessor :followingStarted
+end
+
 module PokemonFollowing
   FOLLOWING_ENABLED = true
   SPRITE_PATH = "Graphics/Characters/"
@@ -63,7 +67,7 @@ def pbCreateFollowingPokemon(spriteName)
 
   # RPG::Event 직접 생성
   rpgEvent = RPG::Event.new(x, y)
-  rpgEvent.id = -9999  # 충돌 없는 고유 ID
+  rpgEvent.id = -9999
   rpgEvent.name = "FollowingPokemon"
   rpgEvent.pages[0].graphic.character_name = spriteName
   rpgEvent.pages[0].move_type = 0
@@ -79,28 +83,4 @@ def pbCreateFollowingPokemon(spriteName)
   $game_map.events[-9999] = newEvent
 
   # DependentEvents에 등록
-  eventData = [
-    $game_map.map_id, -9999, $game_map.map_id,
-    x, y, $game_player.direction,
-    spriteName, 0, "FollowingPokemon", nil
-  ]
-  newRealEvent = $PokemonTemp.dependentEvents.createEvent(eventData)
-  $PokemonGlobal.dependentEvents.push(eventData)
-  $PokemonTemp.dependentEvents.instance_variable_get(:@realEvents).push(newRealEvent)
-  $PokemonTemp.dependentEvents.instance_variable_set(:@lastUpdate,
-    $PokemonTemp.dependentEvents.lastUpdate + 1)
-end
-
-################################################################################
-# 시스템 연동
-################################################################################
-Events.onMapSceneChange += proc { |sender, e|
-  mapChanged = e[1]
-  if mapChanged
-    PokemonFollowing.refresh
-  end
-}
-
-Events.onEndBattle += proc { |sender, e|
-  PokemonFollowing.refresh
-}
+  e
