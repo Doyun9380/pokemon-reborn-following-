@@ -1,0 +1,302 @@
+Version 3.2.7
+
+Added Ai Code for Body Press
+Added Ai Code for Scale Shot
+Fixed Infinity items vendor selling item's only on weekends
+Fixed regular Sableye no longer appearing
+Fixed a bug where Pikachu cannot evolve into Alolan Raichu (unfortunately this affects all existing saves with a partner pikachu)
+Fixes the Paradox event again
+Added the missing sprites for Regieleki and Regidrago
+Fixed Egho Grimer's shiny sprite
+--
+Added dex entries for Hisuian/Galarian forms (and some other)
+New custom megas: Sandslash, Nidoking, Nidoqueen, Typhlosion, Feraligatr, Meganium, Lanturn, Torkoal, Cacturne, Claydol, Corsola, Emboar, Serperior, Samurott
+Added Mega Stone vendor for the new custom megas: Talk to the Gentleman in Calcenon City that traded his H-Zorua
+Added DLC Pokemon: Dipplin, Sinistcha, Poltchageist
+Ogerpon, Munkidori, Fezandipiti, Okidogi available debug only
+Added Blood Moon Ursaluna: Evolve Ursaring during night on Teknite Ridge
+Added Madame Meganium event (to get Sinistcha) (excel)
+Added custom implementations to rarely used abilities: Limber, Heavy/Light Metal, Magma Armor, Tangled Feet, Early Bird (excel)
+Some battles were adjusted: El,Gargantuan Steelix, P-Swalot, Virtual Mewtwo, P-Avalugg, Apophyll Solaris
+--
+Implemented Opportunist, Mirror Herb, Protosynthesis / Quark Drive and Cud Chew
+Other Gen 9 stuff - corrected Supreme Overlord boosts, made Charge only wear off when an Electric move is used, made Wind Rider activate on entry under Tailwind
+
+Version 3.2.6
+
+Fixed Rebornian Crawdaunt bug
+Fixed some ai bugs
+Fixed the Infinity postgame content making the player unable to run away
+Peat Block is now Post restoration
+Rage Fist is now learnt by Primeape at lv 57
+Sorcerice's Queenly Majesty has been changed to Oblivious
+Added Ai Code for Take Heart
+Removed Wildfire and Permafrost from Delta Lilligant (Water). Those moves don't exist in Reatomized
+Removed Jet Stream and Lunar Cannon from Delta Lilligant (Fairy). Those moves don't exist in Reatomized
+
+Version 3.2.5
+
+Fixed a bug with Marill
+Fixed a postgame quest where Origin Dialga and Palkia are not in the Origin form
+Changed Torch Song to not be a ignite move
+Changed Drum Beating to not be a sound move
+Ceaseless Edge is now boosted in Dark Crystal Cavern
+Overdrive is no longer boosted in Electric Terrain
+
+VERSION 3.2.4
+
+-The "Move Type Display" mod from Haru's Mod Depot has been added (and slightly modified for Reatomized)
+-Commander has been implemented
+-Some major abilty fixes/improvements: Gulp Missile, Mirror Armor, Wind Rider, Wind Power, Geiger Sense, Bloodlust, Nova Burner and NB+, Snow Blazer and SB+
+-Several miscellaneous fixes related to abilities
+-All Legends: Arceus moves have been updated to Gen 9 (except Power Shift, which keeps its PLA effect)
+-All the missing Partner Pikachu/Eevee moves have been implemented
+-Many Reatomized custom moves have been polished
+-Some other major move fixes/improvements: Mind Blown, Aura Wheel, DRAGON DARTS, Octolock, Dragon Energy, Jungle Healing, Eerie Spell, Expanding Force, Steel Beam, Gigaton Hammer, Salt Cure, Fillet Away, Make It Rain
+-Several miscellaneous fixes related to moves
+-Cramorant and Morpeko now revert forms properly
+-Ability Shield now interacts properly with Neutralizing Gas and Mold Breaker, also displays messages upon activation in certain cases
+-Clear Amulet battle messages have been fixed
+-Loaded Dice / Skill Link now interact properly with Triple Kick / Population Bomb
+-Some errors related to battle animations have been fixed
+-Icons now display correctly in case of altform gender differences
+-New feature: Now you can press C on the Pokemon summary screen to view the full description of the Pokemon's ability
+-Bugfixes: Some mod-related crashes, Totem Necrozma crash, Teatime bug, Rebornian Sableye disguise bug, Swamp Field lowering Speed by two stages every turn, many others
+--
+-Modified more trainer teams for the Ex version
+-Added Ai code for to not switch if user has Last Respects and a Water Sport code for a battle
+-Added Ai code for Surging Strikes and Fillet Away (copied and modified Belly Drum)
+-Added Ai code for Life Dew and Jungle Healing
+-Added Ai code Disenchant and Lead Skin
+-Pokemon under Illusion no longer shows the mega evolution animation and don't change sprite when mega evolving
+-Changed Pahar from Normal/Flying to Fire/Flying
+-Fixed Mystery egg variables for Onxy and Jasper mystery eggs
+-Added Swabone, Slowpoke, and Shebbit to Jasper mystery egg and removed Trapinch
+-Shifted Mewthree portal to the room connected to the Magic Square room (Don't know what the room is called)
+-Added a new Arkhaos battle and moved Arkhaos (Digimon) somwhere else.
+-Fixed ladder error at Magma Chamber (Lanthan)
+-Fixed Acthan event crystal bridge not appearing
+-Fixed paradox event not opening
+-Added Cosmic Arceus and Cosmic Silvally icons
+-Glitch Field - Fields are prevented from being generated
+-Fallout Field - Nuclear is neutral to Cosmic
+-Adjusted some wild pokemon locations (Zacian, Zamazenta, Galarian Darumaka, Unymph, Flager, Rookidee are now available later)
+-Updated locations in docs and fixed some errors
+-Fixed Meltan and Melmetal Stats
+-Changed Krivolver to Krilvolver
+-Adjusted Rising Voltage to work more like in the official games
+-Ai being dumb in Underwater Field (Thanks TGuilerrr for pointing it out!)
+-Manually incorporated TMM Bug Bandaid made by Torre
+
+VERSION 3.2.3
+
+-Only regular Qwilfish can evolve into Kablowfish and only Hisuian into Overqwil; costume Pikachu and Unovan Basculin can no longer evolve
+-Nidorino/Nidorina no longer change their gender upon evolving into Nidorook
+-Certain forms incorrectly getting Eviolite boosts has been fixed
+-Infernal Blade now applies its effectiveness correctly
+-Shed Tail has been fixed
+-Hidden Power won't be typed as any of the fusion types (at least for Pokemon created after this)
+-Ability lists are displayed correctly for Pokemon with gender differences
+-Cosmic Silvally and Arceus have been implemented
+-The abilities Astral Reckoning and Ancient Pressure have been implemented
+-Reatomized's save folder is now separate from vanilla Reborn's save folder
+
+VERSION 3.2
+
+-Updated all gen 9 Backsprites;
+-Added Voidstone (Void Gardevoir Mega Evolution) -> Glasswork Station, enter the Black Hole after beating Hardy;
+-Fixed starting issue for Treasures of Ruin quest;
+-Booster Energy now one time use, and can be bought infinitely from the Hiker (thanks to Valentine @discord);
+-Aura Wheel properly increases Speed now;
+-Fixed Tidy Up;
+-Gigaton Hammer fixed when used by AI;
+-Added Events for Treasures of Ruin Pokemon -> Talk to Elias after finishing Victini Quest to initiate the Event;
+-Added Regidrago and Regieleki as Event rather than normal encounters -> Behind Regirock and Registeel respectively;
+-Added Mega Banette Y -> Old Mega Banette renamed to Mega Banette X;
+-Banettite Y: Glasswork station inside the black hole'd room;
+-Partner Pikachu / Eevee added;
+-Specific Partner Moves + Animation added;
+-Added Nyu battle to get Partner Ribbon;
+-Ribbon is usable on Max friendship Eevees / Pikachus to turn them into Partner forms;
+-Nyu's House can now be targeted with Fly for Convenience;
+-Added 4 new Variants: Cosmic Koffing, Rebornian Sableye, Rebornian Wasteland Charizard and Rebornian Baltoy;
+-Added new moves and abilities.
+-Added option to Relearn moves from your Pokèmon screen, like in PLA.
+
+#############################################################################################################################
+
+VERSION 3.1
+
+-Added the Infinity Fusions of the starter Pokèmon (THANK YOU @INDIGO!!!);
+-Added full functionality of the PULSE item;
+-Lin now gets Cyrus' Crobat in her team;
+-Cosmic is now weak to Ice;
+-Ice now resists Cosmic;
+-Lin gets the 7 Pokèmon treatment;
+-GUField now activates Zero to Hero and Battle Bond;
+-Hail gives 50% Sp.Def to Ice types;
+-Nerfed final Cyrus fight and the Galactic Universe Field.
+-Teddinomo can now learn U-Turn;
+-DJ Arclight's quest now gives Cosmic Plate (x1), Cosmic Memory (x1) and Cosmic Gem (x5);
+-??? type items placeholders;
+-Lin now utilizes Flutter Mane instead of Brute Bonnet;
+-Celestial Lilligant now has a new ability and gains a new sprite;
+-You can now Lose to Lin 2;
+-The plus abilities for Pyroimence have been added: Nova Burner+, Snow Blazer+ and Trickster+ are now coded in and readys;
+-Five new variants have been added: Rebornian Lapras, Ametrine Lucario, Cosmic Relicanth, Rebornian Corphish and Rebornian Typhlosion.
+
+A BIG SHOUTOUT GOES TO @KARVANHA FOR HELPING US WITH CODING. THEIR WORK HAS BEEN SUPREME AND THEIR TALENT HAS HELPED US SURPASS CERTAIN BARRIERS (aka bugs) THAT WERE HINDERING PROGRESSION OF THIS NEW VERSION. THANK YOU FOR THE HUGE HELP!!! <3
+
+BUG FIXES:
+-Fixed Pulsehold not making certain Pokèmon to Pulsevolve;
+-Toxtricity and Gourgeist revert forms correctly;
+-Gmax megas display the Gmax symbol instead of the Mega symbol;
+-Tangrowth can evolve into all three Pulse forms (based on the move types you have on Tangrowth);
+-Arceus Pulse evolution is completely functional;
+-Each Pokemon can use Battle Bond only once per battle;
+-Totem Necrozma has been deployed;
+-Luna’s Feralynx's level adjusted;
+-Florinia leads with Ivysaur;
+-Eevee evolves into Accreteon instead of evolving into Maneon;
+-Cyrus will now fight you in Charous Hall;
+-Coconut Milk now available in Spyce Shop;
+-Gold fossil gives the correct Pokèmon;
+-Corsola does not evolve into a gorilla anymore;
+-Hisuian Typhlosion can now be obtained;
+-Blunder Policy And Cell Battery can now be found on the 9th floor of the Department Store post restoration;	
+-Updated Spreadsheet's location of Rebornian Sceptilite's mega stone;
+-Alolan Marowak and Persian should evolve into their Infinity evolutions;
+-Nuclear Nidorina and Nidorino will evolve into Nidorook;
+-Rebornian Charmander can now be caught atop Pyrous Mountain;
+-Lukpup and Egho Cyndaquil well now has no badge requirement;
+-Tauros breeding has been fixed;
+-Scarlarva encounter has been fixed;
+-Fixed Eevee gender issue;
+-Partner Eevee and Pikachu now cannot evolve and are unbreedable;
+-Infinity Eeveeloutions NOT appearing in eggs if they are the parent (Ditto + Eeveeloution = Eeveeloution (no infinity eevee));
+-Nuclear Megas are now available;
+-Spiky Eared Pichu shouldn't be able to evolve anymore.
+
+COMPATIBILITIES:
+-Now compatible with the Reborn music pack for Reatomized.
+-Pyrolusitium now has compatibility patches for Cosmic and Nuclear types.
+
+#############################################################################################################################
+
+FUTURE VERSIONS spoilers
+
+DISTORTION WORLD:
+-The type charts are inverted;
+-Moves that have 150BP have their power reduced by 10% but offer no recharging turns, no recoils or other debuffs like V-Create;
+-Weather moves like Solar Beam/Blade always take 1 turn to hit, and moves like Thunder have 100% accuracy always;
+-Moves like Aurora Veil or Solar Array do not need weathers to be activated.
+
+
+TODO:
+-Field Notes for the Galactic Universe Field and the Distortion World Field;
+-Select the correct Abilities and Genders for C?????a's, A???r's and C?????s' Pokemon.
+-Rebornian Pokemon will have newly updated dex entries;
+-Some Totems are missing their correct totem Sprites (the golden aura);
+-New Totems.
+
+#############################################################################################################################
+
+Version 1.21 -> 1.24
+
+Fixes:
+1. Rebornian Charmander (Those who previously got one will have to debug its form to 4)
+2. Lilligant forms are now working
+3. Snorunt can now evolve to Rebornian Glalie
+4. Electabuzz can now evolve to Rebornian Electivire
+5. Fixed partner Eevee
+6. Quick Start now lasts 2 turns (might need more testing)
+7. Rebornian Infernape changes forms properly
+8. Delta Weavile and Delta Milotic reverting to normal forms
+9. Tangled feet on longer procs an evasion buff on Big Top Arena, however it is still activated on Big Top Arena
+10. Hisuian Arcanine and Aevian Mismagius and some others can no longer Mega Evolve (They weren't intended to)
+11. Fixed a whole bunch of mons reverting to normal forms
+
+Additions:
+1. Updated Steel Roller and Ice Spinner code as well as added AI code for them
+2. Crabrawler can now evolve to Crabominable using a Ice Stone
+3. Castform added to Headbutt trees at Chrysolia Forest
+
+
+-------------------------------------------------------------------------------------
+Version 1.25
+
+Fixes:
+1. Adjusted Tangled Feet to All Gen's implementation
+2. Updated hiker in GrandView station to sell the following items (GIMMIGHOULCOIN,PEATBLOCK,BLACKAUGURITE,HEAVYDUTYBOOTS,UTILITYUMBRELLA)
+3. Skwovet added to Peridot Headbutt trees
+4. Handmixer added to post restoration sweet shop
+5. Added update for Salt Cure
+6. Added encounters for Varoom and Xenomite
+7. Changed Friktiki to Frikitiki
+8. Black Augurite added to Grand Stairway
+9. Galarian Feather given out by Lumi
+10. Fixed the Tsukinami messanger missing its graphic
+11. Fixed Issues in Tsukinami Village
+12. Added Missing Music
+
+Additions:
+1. Added AI code for Last Respects
+
+
+-------------------------------------------------------------------------------------
+Version 1.26
+
+Fixes:
+1. Fixed Urshifu scroll event
+2. Added Praseopunk and Neopunk to Yureyu Power Plant (Rotom Room)
+3. Added Zephy back to secret room (magic square quest)
+4. Fixed paradox bosses battles
+5. Adjusted the paradox event slightly so that you can choose when to collect Miraidon and Koraidon
+6. Removed a duplicate Sprigatito
+7. Fixed Quick Start only being active for 1 Turn in Electric Terrain
+8. Quick fix for Cyrus in route 2 now that I know the issue
+
+
+--------------------------------------------------------------------------------------
+Version 1.26.27
+
+Fixes:
+1. Raging Blaze now adds the Nuclear type to Fire moves used by the user
+2. Mega Sunflora's ability has been changed to Hydra Bond
+3. Dev Charm now gives +12 rolls on catching instead of +10
+
+
+--------------------------------------------------------------------------------------
+Version 1.26.27.2
+
+Fixes:
+1. Fixed Disguise;
+2. Changed Nucleon sprite;
+3. Added Oreon
+4. Added event to get Oreon in the Nature Center in Route 1;
+5. Added Weakening Jumpscare to Cosmic Larvesta's learnset at level 50;
+6. Edited the Excel file, adding Oreon and modifying some things;
+7. Fixed all bugs with the best starter of the game, released in Gen 1 and Fire Typed. 
+
+
+--------------------------------------------------------------------------------------
+Version 2.00
+
+Fixes:
+- Infinty Mons implemeted (Finally!)
+- Features revamped trainers by me (may not be in future versions).
+  These changes might not be in the later versions because I did it before the rebalancing
+- Paradox Map exit fixed
+- Added a new NPC to restore new fossils at Spinel
+- Fixed Laser Pulse effect
+- Fixed Nucleon evolution
+- Added Galarian Birds static encounter (Available after starting tier 2 at the same locations)
+- Added Ai code for Victory Dance, Expanding force, and increased threat level for Nuclear pokemon
+- Added Ai code for Fishious Rend and Terrain Pulse higher score and Infernal Blade
+- Bigger Urayne Sprite
+
+Bugs known:
+- Egho Garbodor shows mega symbol (I am unable to fix this one atm)
+- Floating Zapdos (because its sprite is shared with regular zapdos)
+
+Please give me feedback about the events. I'd love to hear what you all think.

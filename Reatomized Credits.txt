@@ -1,0 +1,411 @@
+########## Pokemon property ##########
+GameFreak, Nintendo
+
+
+########## RPG Maker ##########
+Enterbrain and contributors
+
+
+########## Pokemon Essentials scripts ##########
+Maruno
+Poccil
+Flameguru
+
+--Additional contributors--
+AvatarMonkeyKirby
+MiDas Mike
+P.Sign
+Boushy
+Near Fantastica
+Brother1440
+PinkMan
+FL.
+Popper
+Genzai Kawakami
+Rataime
+Harshboy
+SoundSpawn
+help-14
+the__end
+IceGod64
+Venom12
+Jacob O.
+Wobbrock
+Wachunga
+KitsuneKouta
+xLeD
+Lisa Anthony
+
+
+########## Pokemon Reborn (Scripting, Eventing, Graphics, Sound & Music, up to Gen 7) ##########
+Amethyst
+Andracass
+Ikaru
+Autumn
+Marcello
+GlitchxCity
+Smeargletail
+VulpesDraconis
+Dragon-Tamer795
+O Colosso
+RichViola
+Toothpastefairy
+Crim
+Azzie
+Darius
+All supporters and contributors (Readme file)
+
+
+########## Generation 8, Legends: Arceus (implemented by Fervis) ##########
+--Abilities (Essentials)--
+Quick Draw - Fervis
+Unseen Fist - WolfPP
+Curious Medicine - Silverlime
+Transistor - Silverlime
+Dragon's Maw - Silverlime
+Chilling Neigh - Silverlime
+Grim Neigh - Silverlime
+As One - WolfPP / Fervis (adding to Unnerve)
+Mirror Armor - retry by Fervis
+
+--Items (Vanilla Reborn)--
+Galarica Cuff
+Galarica Wreath
+Black Augurite
+Peat Block
+Reins of Unity
+Lustrous Globe
+Adamant Crystal
+Hand Mixer - redone
+
+--Gen 8 Moves (Essentials / Vanilla Reborn)--
+Shell Side Arm - Softshade
+Eerie Spell - Silverlime
+Expanding Force - Silverlime
+Lash Out - HM100
+Burning Jealousy - HM100
+Steel Roller - ElijahZx360 (base)
+Meteor Beam - Silverlime (+ Solar Beam)
+Poltergeist - Silverlime
+Corrosive Gas - Silverlime
+Misty Explosion - Silverlime (+ Explosion)
+Jungle Healing - (Refresh + Life Dew)
+Scale Shot - Softshade, Sapphiada (Reborn)
+Dragon Darts - Rejuv version
+
+--Hisuian Moves (Vanilla Reborn)--
+Stone Axe (Stealth Rock)
+Ceaseless Edge (Spikes)
+Chloroblast (Mind Blown)
+Dire Claw - Fervis
+Victory Dance (Quiver Dance)
+Barb Barrage (Hex)
+Bitter Malice
+Infernal Parade
+Shelter (Shell Smash)
+Triple Arrows - new
+Raging Fury (Outrage)
+Wave Crash (recoil damage code)
+Take Heart (Refresh / Calm Mind)
+Lunar Blessing
+Power Shift (Power Trick)
+
+--Sprites--
+Smogon Sprite Project
+leParagon
+G.E.Z.
+Blaquaza
+TheAetherPlayer
+KingOfThe-X-Roads
+InvoluntaryTwitch
+RadicalCharizard
+Crocovyle
+Cynda
+WolfPP
+Travis
+Hematite
+Katten
+Z-nogyroP
+PumpkinPastel
+
+mjco
+conyjams
+Smeargletail
+zlolxd
+EventHorizontal
+Khrona
+Andracass
+Amethyst
+Janichroma
+Zumi (Honnojis)
+SageDeoxys
+TheyMadeMeMakeThisAc
+
+--Hisuian Sprites--
+Smogon Sprite Project
+SpheX
+KingOfThe-X-Roads
+G.E.Z.
+KattenK
+Hematite
+Travis
+AZzy (Pokemon Reborn) - Wyrdeer
+
+--Additional Sprites--
+Carmanekko - DeviantArt (Typhlosion Front Sprite)
+Fenix#6592 - Discord Community (Typhlosion Back Sprite)
+SageDeoxys, Wolfang62 - Overworld Sprites
+eternal fractal#2460 - Discord Community (Hisuian Back Sprites)
+Fervis (some Eeveelutions, new Sprite Format, Eggs)
+"Someone Soul#0222" (Reborn Discord - Gigantamax forms)
+
+Rejuvenation & community (taken over to Reborn E19)
+Janichroma
+Marcello
+Mysticalmew24
+Alistair
+Clara-WaH
+Pyrolusite
+StargazerSammie
+Ekat
+SacredDragonair
+ChaoticCherryCake
+PrincessPhoenix
+
+--Audio (Cries)--
+PokeCommunity
+REALMUGEN
+WolfPP
+Smogon
+DaWoblefet
+Zeak6464
+Fervis
+
+--Icons--
+"Someone Soul#0222" (Reborn Discord)
+Ulithium_Dragon
+LuigiTKO
+Ivy
+Ezerart
+Azria
+Fervis
+
+--Scripts, PBS, Coding, Writing--
+Janichroma
+Marcello
+Mysticalmew24
+Fervis
+cecceccu#7324 (bug fixing)
+ElijahZx360
+
+--Generation 8 Project - PokeCommunity (Essentials)--
+https://www.pokecommunity.com/showthread.php?t=422817
+Zerokid
+Golisopod User
+Maruno
+Vendily
+TheToxic
+HM100
+Aioross
+WolfPP
+MFilice
+lolface
+KyureJL
+DarrylBD99
+Turn20Negate
+TheKandinavian
+ErwanBeurier
+Silverlime
+Belverk#0722 (Reborn Discord)
+
+########## Generation 9 ##########
+Pokemon Essentials Gen 9 resource pack project
+Caruban, PorousMist (PBS)
+Caruban (scripts)
+Fervis (re-writing)
+@EBaruON - Meowscarada sprite
+OldSoulja (Reborn community)
+Jordanos - Walking Wake / Iron Leaves sprites (and small fixes by Ace)
+
+--Gen 9 custom shiny sprites--
+Omar Hadeon#0105 - Lilligant (Hisuian) , Ceruledge , Armarouge , Cyclizar
+Yana#8606 - Ursaluna , Sandy Shocks
+OmniWarrior207#1358 - Fuecoco (whole line) , Typhlosion (Hisuian)
+Ace#4918 - Charcadet
+@omniwarrior207 - H-Samurott
+
+
+########## New Eeveelutions - Ideas, Designs, Sprites ##########
+Bazaro - Pokemon Reborn Eeveelution thread (archived)
+Fervis - Icons, Spriting
+Eeveon - MirthfulArtist
+Maneon - Cachomon (Deviant Art)
+Hawkeon - Eleanor Brick
+Bristleon - Kiiro-Nee san (Deviant Art)
+Zirconeon - Off-ColorDarkrai (Deviant Art)
+Titaneon - Design unknown, Sprite by Badman#6291 (Discord Community)
+Ephemeon - Design unknown (found at Aminoapps - Eeveelution Community)
+Toxeon - Dazed Flame (Reborn Forum - Archived Eeveelution Thread)
+Kitsuneon - OnyxBlock (Design), Kriyanceldt (Sprite) (Deviant Art)
+Drekeon - Mykel Ryan (Youtube)
+
+
+########## Custom Mega Evolutions ##########
+(Some are not implemented yet, but will be eventually)
+
+--DeviantArt--
+Oroshibu - Nidoking, Raticate, Cradily ,Sandslash, Reuniclus, Crobat
+EndlessTGX - Froslass, Dusknoir, Milotic, Chimecho, Tsareena, Breloom, Ninetails, Dugtrio, Roserade, Empoleon, Exploud, Starmie, Vespiquen
+Mucrush - Typhlosion, Granbull 
+KFWeagz - Rhyperior, Hydreigon, Feraligatr, Meganium, Vileplume, Shuckle, Emboar, Samurott
+FYTYNo1 - Serperior
+tienminh160498 - Luxray
+XD010DX - Gourgeist
+abeshoken - Zangoose, Hypno, Bruxish
+LimitDistortion - Infernape (asked)
+Diegotoon20 - Marowak
+
+Mak's Defiance Resource Pack (Relic Castle) - Bronzong, Jumpluff, Victreebel, Torterra, Xatu
+
+--NocTurn's Festival Resource Pack (Relic Castle)--
+JWNutz - Quagsire (Axolava), Goodra
+BiggusWeeabus - Aromatisse
+KajiAtsui - Dudunsparce (Dunspear), Delibird (Lootbird), Noctowl, Sunflora (Sunnydra), Torkoal (Tormine)
+AnonAlpaca - Mismagius, Arcanine, Scrafty
+Nuclear Omega & PurpleZaffre - Barbaracle
+PrincessPheonix - Mothim (Firomenis)
+PansyGumPKMN - Stantler (Egoelk, Moosid)
+
+--PokeCommunity--
+WolfPP, Travis, Wednesday - feedback on PansyGum's sprites
+
+--Designs / Arts--
+Smiley-Fakemon - Cradily, Sandslash, Crobat
+Badafra - Nidoking
+Phatmon - Rhyperior
+PheonixSong - Zangoose
+SilentGPanda - Raticate
+WaterTrainer - Torkoal (Tormine)
+XXD17, plzgaiasrebirth - Serperior, Emboar
+
+--Pokemon Reborn Community--
+Jordanos#4570 - Kingdra
+badmanrhys123 (Deviant) - Dewgong
+
+
+########## URANIUM TEAM ##########
+Credits for all Fakemon, Abilites, Cries and related coding goes to the creators and contributors of Pokemon Uranium
+
+~JV~ (Game Developer): Programming, Maps, Music, Events, Scripts, Bugfixes, Balancing, UI
+@JVUranium
+
+Involuntary Twitch (Game Designer): Story, Art, Writing, Sprites, Fakemon Designs
+@VoluntaryTwitch
+
+Fakemon Designs:
+Buddyivy
+Wylde
+Zorin
+Riceeman
+Heinze
+CookieTheRabbit
+
+Scripts:
+FL.
+Maruno
+HelioAU
+Carmaniac
+Elyssia
+Wichu
+Umbreon
+CCOA
+Venom12
+Klein
+
+--Mega Nucleon Sprite--
+Starry (Discord Community)
+
+--Mega Nucleon Concept--
+NerdyBeast (DeviantArt)
+
+--Nuclear Form Sprites, Icons--
+Relog-Ratio (Discord Community)
+
+--Gen 5 Nucleon Sprite--
+ZazyMomba
+
+--Ninja Overworld Sprite--
+5QU3L3T0N
+
+--TMs, Moves, PBS help--
+futuresushi#4560 (Discord)
+
+########## INFINITY TEAM ##########
+Atomic Reactor - Lead Developer
+Feutor - Competitive Mechanics Coordinator
+Homeless - Fakemon Designer
+Tomix9tomix - Quality Assurance
+SimonAsenime - Scripting
+
+SirAquakip  [Old Obsidian Fakemon]
+Dreadwings93 [Unova Backsprites]
+Foxeaf [Gorochu Concept Art used for sprite]  https://www.deviantart.com/foxeaf
+KryptonLion [Pokemon Type Icons] https://www.deviantart.com/kryptonlion
+Cuber [Terathwack back sprite and icon, some trainer sprites] https://twitter.com/cuberbr_
+Zermonious [PSS Icons] https://www.deviantart.com/zermonious
+VictorV111 [Pokemon Eggs] https://www.deviantart.com/victorv111/art/Pokemon-Egg-Sprites-841773377
+SJFzone [Shiny Pokemon Icons] https://www.pokecommunity.com/showthread.php?t=439042
+
+Character Sprites
+----------------------------------------
+Olivar Jonas Queen [Sunflorid Icon]
+Rami [Eeveelution Icons]
+PixelMister [Koromon Sprite] https://www.deviantart.com/pixelmister/art/Digimon-x-Pokemon-Series-Front-Sprites-619515089
+CodeEden [Other Digimon sprites]
+Kristoff [Koba face graphic]
+
+Sprites:
+HemoglobinA1C, Reimufate, AGSMGMaster64, Hanabi, Barudo, and BluShell
+destinedjagold
+Pokemon Vega Team
+
+Music:
+ユメガタリ by TUMENECO
+VS Asphere from Pokemon Vega
+Battle! Diabolos! by Minako Adachi
+Royal Knights by Masafumi Takada
+
+########## Other Contributions ##########
+--Oreon--
+Thaumaturgical Ordeon
+
+--Shinies and Touch-Ups--
+Omar: Shiny Dunseraph and Quezsparce
+RedEmber: Shiny Dunseraph backsprite
+
+
+########## REATOMIZED ##########
+--Core Team--
+Maxxetto
+Fervis
+Babouine
+Gelius
+Holly
+Indigo
+Karvanha
+Klefastra
+Legionites
+Rajy
+Sapphiada
+SilverTotodile
+Skylar
+Wolfry
+
+--Beta Testers--
+@jonokirby
+@thor192
+@l_ajmic_l
+
+----------------------------------------
+Big credits to @throwingtorre ( Torre ) for the Data mod and @kay.haru ( Haru ) for letting me steal, without asking, the Relearn function from their mod depot!
+The mod " Learnset and Relearn " is a fusion between the Move Relearn mod from Haru and the Learnset Display mod from Torre.

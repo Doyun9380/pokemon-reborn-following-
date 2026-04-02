@@ -1,0 +1,28 @@
+WATCH OUT, THIS POKEMON IS NOT IN ITS BASE FORM. ITS TYPING IS Water Dark
+Greninja @ Ryu Ichimonji
+Level: 20
+Hardy Nature
+Ability: Protean
+EVs: 0 HP / 1 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Shuriken
+- Dragon Blade
+- Growl
+- Lick
+
+-----------------
+
+WATCH OUT, THIS POKEMON IS NOT IN ITS BASE FORM. ITS TYPING IS Electric Fighting
+Pikachu
+Level: 20
+Adamant Nature
+Ability: Huge Power
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Charm
+- Tackle
+- Play Nice
+- Thunder Wave
+
+-----------------
+
